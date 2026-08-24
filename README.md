@@ -12,7 +12,8 @@ Each laboratory activity will be organized in its own folder to keep the reposit
 
 ## Laboratory Activities
 
-- Laboratory 01 – Welcome to the Cloud
+- [Laboratory 01 – Welcome to the Cloud](https://chatgpt.com/c/Laboratory-01-Welcome-to-the-Cloud)
+- [Laboratory 02 – Build the Cloud Infrastructure Blueprint](https://chatgpt.com/c/Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint)
 - More laboratory activities will be added throughout the semester.
 
 ## Tools Used
@@ -22,6 +23,7 @@ Each laboratory activity will be organized in its own folder to keep the reposit
 - Git
 - GitHub
 - Markdown
+- Diagramming Tool
 
 ## Course
 
