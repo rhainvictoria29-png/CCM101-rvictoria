@@ -1,0 +1,9 @@
+# Mission Reflection
+
+I think compute resources are one of the most important components of cloud infrastructure because they provide the processing power needed to run applications and services. Without sufficient computing resources, applications would not be able to process tasks properly. However, compute resources also need to work together with storage, networking, and the operating system to provide a functional cloud environment.
+
+Linux supports cloud computing by providing a reliable operating system that can run on cloud servers. It also provides many command-line tools that allow administrators and cloud engineers to inspect and manage system resources. In this activity, I used Linux commands to investigate the CPU, memory, storage, mounted file systems, hostname, and IP address. Using these commands helped me understand how information about a cloud server can be collected and documented.
+
+Technical documentation is also important before deploying infrastructure because it provides a clear record of the resources, configurations, and decisions involved in an infrastructure design. It helps engineers understand the system before deployment and makes it easier to troubleshoot, maintain, and manage the environment later.
+
+During this laboratory activity, I learned how to investigate a Linux server using different commands and identify important infrastructure information. I also learned more about compute, storage, networking, and operating system resources. Another skill I practiced was organizing technical information using Markdown and GitHub. My GitHub portfolio also improved because I added another organized laboratory activity with several Markdown documents and screenshots. Overall, this activity helped me improve my understanding of cloud infrastructure, Linux commands, technical documentation, and GitHub organization.
