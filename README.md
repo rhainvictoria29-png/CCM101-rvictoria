@@ -12,8 +12,8 @@ Each laboratory activity will be organized in its own folder to keep the reposit
 
 ## Laboratory Activities
 
-- [Laboratory 01 – Welcome to the Cloud](https://chatgpt.com/c/Laboratory-01-Welcome-to-the-Cloud)
-- [Laboratory 02 – Build the Cloud Infrastructure Blueprint](https://chatgpt.com/c/Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint)
+- [Laboratory 01 – Welcome to the Cloud](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-01-Welcome-to-the-Cloud)
+- [Laboratory 02 – Build the Cloud Infrastructure Blueprint](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint)
 - More laboratory activities will be added throughout the semester.
 
 ## Tools Used
