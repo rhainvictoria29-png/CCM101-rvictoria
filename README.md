@@ -23,7 +23,7 @@ Each laboratory activity will be organized in its own folder to keep the reposit
 - Git
 - GitHub
 - Markdown
-- Diagramming Tool
+- Canva
 
 ## Course
 
