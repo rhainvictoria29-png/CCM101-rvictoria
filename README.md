@@ -12,18 +12,19 @@ Each laboratory activity will be organized in its own folder to keep the reposit
 
 ## Laboratory Activities
 
-- [Laboratory 01 – Welcome to the Cloud](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-01-Welcome-to-the-Cloud)
-- [Laboratory 02 – Build the Cloud Infrastructure Blueprint](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint)
-- More laboratory activities will be added throughout the semester.
+* [Laboratory 01 – Welcome to the Cloud](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-01-Welcome-to-the-Cloud)
+* [Laboratory 02 – Build the Cloud Infrastructure Blueprint](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint)
+* [Laboratory 03 – Multi-Cloud Explorer](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-03-Multi-Cloud-Explorer/Laboratory-03-Multi-Cloud-Explorer)
+* More laboratory activities will be added throughout the semester.
 
 ## Tools Used
 
-- Linux / Ubuntu
-- KillerCoda
-- Git
-- GitHub
-- Markdown
-- Canva
+* Linux / Ubuntu
+* KillerCoda
+* Git
+* GitHub
+* Markdown
+* Canva
 
 ## Course
 
