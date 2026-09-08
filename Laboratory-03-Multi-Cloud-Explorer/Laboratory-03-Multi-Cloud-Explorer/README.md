@@ -140,7 +140,8 @@ These services provide virtual computing environments where a Linux operating sy
 
 The following screenshot shows the Linux investigation performed using KillerCoda.
 
-![KillerCoda Terminal](screenshots/killercoda-terminal.png)
+![KillerCoda Terminal](screenshots/killercoda-terminal-1.png)
+![KillerCoda Terminal](screenshots/killercoda-terminal-2.png)
 
 ---
 
