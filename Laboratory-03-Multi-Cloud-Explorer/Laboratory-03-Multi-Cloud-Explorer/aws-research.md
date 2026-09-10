@@ -20,10 +20,6 @@ The AWS Management Console is a web-based interface used to access and manage AW
 
 Through the console, users can create and configure resources, monitor services, manage security settings, view billing information, and control their cloud infrastructure.
 
-**Screenshot:**
-
-![AWS Management Console](screenshots/aws-homepage.png)
-
 ## 4. Four Core Services
 
 ### 4.1 Amazon EC2
