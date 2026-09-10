@@ -151,8 +151,7 @@ https://github.com/rhainvictoria29-png/CCM101-rvictoria/blob/main/Laboratory-03-
 
 The GitHub repository contains the Markdown documentation, research files, comparison tables, recommendations, reflection, and screenshots for this laboratory activity.
 
-![GitHub Repository]([screenshots/github-repository.png](https://github.com/rhainvictoria29-png/CCM101-rvictoria/blob/main/Laboratory-03-Multi-Cloud-Explorer/Laboratory-03-Multi-Cloud-Explorer/screenshots/Checkpoint%201.png
-))
+![GitHub Repository](https://github.com/rhainvictoria29-png/CCM101-rvictoria/blob/main/Laboratory-03-Multi-Cloud-Explorer/Laboratory-03-Multi-Cloud-Explorer/screenshots/Checkpoint%201.png)
 
 ---
 
