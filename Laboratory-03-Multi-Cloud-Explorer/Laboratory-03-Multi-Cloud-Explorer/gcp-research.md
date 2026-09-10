@@ -20,10 +20,6 @@ The Google Cloud Console is a web-based interface that allows users to create, c
 
 Users can manage virtual machines, storage, databases, networking, Kubernetes clusters, security settings, and other cloud services through the console.
 
-**Screenshot:**
-
-![Google Cloud Console](screenshots/gcp-homepage.png)
-
 ## 4. Four Core Services
 
 ### 4.1 Compute Engine
