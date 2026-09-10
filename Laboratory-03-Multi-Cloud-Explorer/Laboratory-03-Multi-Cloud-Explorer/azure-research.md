@@ -20,9 +20,6 @@ The Azure Portal is a web-based management interface used to create, configure, 
 
 Administrators can use the portal to manage virtual machines, storage, networking, databases, identities, security settings, and other cloud services.
 
-**Screenshot:**
-
-![Microsoft Azure Portal](screenshots/azure-homepage.png)
 
 ## 4. Four Core Services
 
