@@ -140,8 +140,10 @@ These services provide virtual computing environments where a Linux operating sy
 
 The following screenshot shows the Linux investigation performed using KillerCoda.
 
-![KillerCoda Terminal](screenshots/killercoda-terminal-1.png)
-![KillerCoda Terminal](screenshots/killercoda-terminal-2.png)
+![KillerCoda Terminal](https://github.com/rhainvictoria29-png/CCM101-rvictoria/blob/main/Laboratory-03-Multi-Cloud-Explorer/Laboratory-03-Multi-Cloud-Explorer/screenshots/Checkpoint%207%20-killercoda-terminal-1.png)
+![KillerCoda Terminal](
+https://github.com/rhainvictoria29-png/CCM101-rvictoria/blob/main/Laboratory-03-Multi-Cloud-Explorer/Laboratory-03-Multi-Cloud-Explorer/screenshots/Checkpoint%207%20-%20killercoda-terminal-2.png
+)
 
 ---
 
@@ -149,7 +151,8 @@ The following screenshot shows the Linux investigation performed using KillerCod
 
 The GitHub repository contains the Markdown documentation, research files, comparison tables, recommendations, reflection, and screenshots for this laboratory activity.
 
-![GitHub Repository](screenshots/github-repository.png)
+![GitHub Repository]([screenshots/github-repository.png](https://github.com/rhainvictoria29-png/CCM101-rvictoria/blob/main/Laboratory-03-Multi-Cloud-Explorer/Laboratory-03-Multi-Cloud-Explorer/screenshots/Checkpoint%201.png
+))
 
 ---
 
