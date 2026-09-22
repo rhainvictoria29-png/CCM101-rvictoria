@@ -15,7 +15,7 @@ Each laboratory activity will be organized in its own folder to keep the reposit
 * [Laboratory 01 – Welcome to the Cloud](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-01-Welcome-to-the-Cloud)
 * [Laboratory 02 – Build the Cloud Infrastructure Blueprint](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint)
 * [Laboratory 03 – Multi-Cloud Explorer](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-03-Multi-Cloud-Explorer/Laboratory-03-Multi-Cloud-Explorer)
-* [Laboratory 04 – The Cloud-Native Engineer]([https://github.com/rhainvictoria29-png/CCM101-rvictoria29-png/tree/main/Laboratory-04-Cloud-Native-Engineer](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-04-Cloud-Native-Engineer))
+* [Laboratory 04 – The Cloud-Native Engineer](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-04-Cloud-Native-Engineer)
 * More laboratory activities will be added throughout the semester.
 
 ## Tools Used
