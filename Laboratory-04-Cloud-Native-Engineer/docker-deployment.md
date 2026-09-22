@@ -74,15 +74,7 @@ docker ps
 
 **Explanation:** This command verifies that the Nginx container is no longer running.
 
-### 4. Display All Containers
-
-```bash
-docker ps -a
-```
-
-**Explanation:** This command displays both running and stopped containers, allowing me to confirm that my-nginx has stopped.
-
-### 5. Remove the Container
+### 4. Remove the Container
 
 ```bash
 docker rm my-nginx
