@@ -7,28 +7,30 @@ Hello! My name is Rhain RG P. Victoria, and I am a student taking CCM101 – Clo
 
 ## About This Repository
 
-This repository is my Cloud Computing Portfolio for CCM101. It will contain all of the laboratory activities, documentation, screenshots, scripts, and reflections that I complete throughout the semester.
+This repository is my Cloud Computing Portfolio for CCM101. It contains the laboratory activities, documentation, screenshots, scripts, and reflections that I complete throughout the semester.
 
-Each laboratory activity will be organized in its own folder to keep the repository clean and easy to navigate.
+Each laboratory activity is organized in its own folder to keep the repository clean and easy to navigate.
 
 ## Laboratory Activities
 
-* [Laboratory 01 – Welcome to the Cloud](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-01-Welcome-to-the-Cloud)
-* [Laboratory 02 – Build the Cloud Infrastructure Blueprint](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint)
-* [Laboratory 03 – Multi-Cloud Explorer](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-03-Multi-Cloud-Explorer/Laboratory-03-Multi-Cloud-Explorer)
-* [Laboratory 04 – The Cloud-Native Engineer](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-04-Cloud-Native-Engineer)
-* [Laboratory 05 – The Cloud Data Engineer](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-05-Cloud-Data-Engineer)
+- [Laboratory 01 – Welcome to the Cloud](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-01-Welcome-to-the-Cloud)
+- [Laboratory 02 – Build the Cloud Infrastructure Blueprint](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint)
+- [Laboratory 03 – Multi-Cloud Explorer](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-03-Multi-Cloud-Explorer)
+- [Laboratory 04 – The Cloud-Native Engineer](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-04-Cloud-Native-Engineer)
+- [Laboratory 05 – The Cloud Data Engineer](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-05-Cloud-Data-Engineer)
+- [Laboratory 06 – Cloud Deployment Engineer](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-06-Cloud-Deployment-Engineer)
+- [Laboratory 07 – Cloud Operations Engineer](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-07-Cloud-Operations-Engineer)
 
 ## Tools Used
 
-* Linux / Ubuntu
-* KillerCoda
-* Docker
-* MinIO
-* Git
-* GitHub
-* Markdown
-* Canva
+- Linux / Ubuntu
+- KillerCoda
+- Docker
+- MinIO
+- Git
+- GitHub
+- Markdown
+- Canva
 
 ## Course
 
