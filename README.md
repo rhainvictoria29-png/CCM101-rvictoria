@@ -20,6 +20,7 @@ Each laboratory activity is organized in its own folder to keep the repository c
 - [Laboratory 05 – The Cloud Data Engineer](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-05-Cloud-Data-Engineer)
 - [Laboratory 06 – Cloud Deployment Engineer](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-06-Cloud-Deployment-Engineer)
 - [Laboratory 07 – Cloud Operations Engineer](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-07-Cloud-Operations-Engineer)
+- [Laboratory 08 – Cloud Security Engineer](https://github.com/rhainvictoria29-png/CCM101-rvictoria/tree/main/Laboratory-08-Cloud-Security-Engineer)
 
 ## Tools Used
 
