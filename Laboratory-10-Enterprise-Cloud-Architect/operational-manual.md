@@ -1,8 +1,8 @@
 # 🛠️ Operational Manual & Maintenance Guide
 ## Laboratory 10: Enterprise Cloud Architect
 
-**Project Workspace:** `rexalvin2005/CCM101-rvidal`  
-**Deployment Path:** `~/CCM101-rvidal/Laboratory-10-Enterprise-Cloud-Architect`  
+**Project Workspace:** `rhainvictoria29-png/CCM101-rvictoria`  
+**Deployment Path:** `~/CCM101-rvictoria/Laboratory-10-Enterprise-Cloud-Architect`  
 **Primary Host:** Ubuntu Server
 
 ---
@@ -30,7 +30,7 @@ The infrastructure strictly isolates inter-service traffic by creating a dedicat
 
 ## 🚀 Routine Operations Guide
 
-These commands must be executed within the deployment path: `~/CCM101-rvidal/Laboratory-10-Enterprise-Cloud-Architect`.
+These commands must be executed within the deployment path: `~/CCM101-rvictoria/Laboratory-10-Enterprise-Cloud-Architect`.
 
 ### 1. Daily Deployment Loop (Start/Stop)
 
