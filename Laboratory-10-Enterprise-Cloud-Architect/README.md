@@ -63,7 +63,7 @@ The architecture establishes an isolated internal network space (`enterprise_net
 ## 📁 Repository Directory Structure
 
 ```text
-CCM101-rvidal/
+CCM101-rvictoria/
 └── Laboratory-10-Enterprise-Cloud-Architect/
     ├── .env                       # Declarative secrets & database environment variables
     ├── README.md                  # Detailed infrastructure overview & deployment manual
